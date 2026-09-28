@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,25:1A0B2E,70:3B0764,100:6B21A8&height=220&section=header&text=PROTYXX&fontSize=65&fontColor=C084FC&animation=twinkling&fontAlignY=38&desc=Human%20Behavior%20%26%20Motion%20Analysis%20Specialist&descSize=16&descColor=E2E8F0&descAlignY=62" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,25:1A0B2E,70:3B0764,100:6B21A8&height=220&section=header&text=PROTYXX&fontSize=65&fontColor=C084FC&animation=twinkling&fontAlignY=38&desc=Human%20Behavior%20%26%20Motion%20Analysis%20Specialist&descSize=16&descColor=E2E8F0&descAlignY=62" width="100%" alt="Main"/>
 
   <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-## ⚡ Обо мне / Overview
+## ⚡ Overview
 
 ```yaml
 specialization: "Human Behavior & Motion Analysis"
@@ -56,11 +56,11 @@ flagship: "https://paranoicdlc.fun"
 
 <br>
 
-## 🛠️ Стек технологий / Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-  ### 💻 Языки программирования
+  ### 💻 Languages
   <p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -69,7 +69,7 @@ flagship: "https://paranoicdlc.fun"
     <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="ASM"/>
   </p>
 
-  ### 🛡️ Реверс-инжиниринг & Безопасность
+  ### 🛡️ Security
   <p align="center">
     <img src="https://img.shields.io/badge/Reverse_Engineering-110022?style=for-the-badge&logo=hackaday&logoColor=C084FC" alt="Reverse Engineering"/>
     <img src="https://img.shields.io/badge/Anti--Tamper_&_Protect-2D004F?style=for-the-badge&logo=auth0&logoColor=white" alt="Protection"/>
@@ -77,7 +77,7 @@ flagship: "https://paranoicdlc.fun"
     <img src="https://img.shields.io/badge/Bytecode_Manipulation-1A0A2A?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Bytecode"/>
   </p>
 
-  ### 🎨 Графика, UI & Инструменты
+  ### 🎨 Graphics & UI
   <p align="center">
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
     <img src="https://img.shields.io/badge/Custom_GUI_Design-6B21A8?style=for-the-badge&logo=figma&logoColor=white" alt="UI Design"/>
@@ -96,7 +96,7 @@ flagship: "https://paranoicdlc.fun"
 
 <br>
 
-## 🚀 Флагманский проект / Featured Project
+## 🚀 Featured Project
 
 <div align="center">
 
@@ -119,7 +119,7 @@ flagship: "https://paranoicdlc.fun"
 
 <br>
 
-## 📊 GitHub Активность & Статистика
+## 📊 GitHub Activty & Statistics
 
 <div align="center">
 
@@ -148,7 +148,7 @@ flagship: "https://paranoicdlc.fun"
 
 <br>
 
-## 📫 Контакты / Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
