@@ -35,3 +35,140 @@ focus:
   - "Modern Dark Cyber GUI & Shader Interfaces"
 status: "Building next-gen client solutions"
 flagship: "https://paranoicdlc.fun"
+```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400" alt="Cyber Developer"/>
+</div>
+
+<br>
+
+- 🕹️ **Java Development:** Разработка продвинутых клиентов под Minecraft, кастомных пайплайнов рендера, инжектов и хуков.
+- 🛡️ **C++ Systems & Protect:** Нативная защита, обфускация, криптография памяти, анти-отладка, загрузчики и отказоустойчивые бэкенды.
+- 📐 **Motion & Behavior Analysis:** Исследование паттернов поведения игроков, алгоритмическое прогнозирование траекторий, интерполяция и математика движения.
+- 🎨 **UI / UX Architecture:** Разработка стильного, плавного интерфейса с кастомной физикой, анимациями и шейдерами.
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider"/>
+</div>
+
+<br>
+
+## 🛠️ Стек технологий / Tech Arsenal
+
+<div align="center">
+
+  ### 💻 Языки программирования
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="ASM"/>
+  </p>
+
+  ### 🛡️ Реверс-инжиниринг & Безопасность
+  <p align="center">
+    <img src="https://img.shields.io/badge/Reverse_Engineering-110022?style=for-the-badge&logo=hackaday&logoColor=C084FC" alt="Reverse Engineering"/>
+    <img src="https://img.shields.io/badge/Anti--Tamper_&_Protect-2D004F?style=for-the-badge&logo=auth0&logoColor=white" alt="Protection"/>
+    <img src="https://img.shields.io/badge/Memory_Analysis-0D0D1A?style=for-the-badge&logo=target&logoColor=C084FC" alt="Memory Analysis"/>
+    <img src="https://img.shields.io/badge/Bytecode_Manipulation-1A0A2A?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Bytecode"/>
+  </p>
+
+  ### 🎨 Графика, UI & Инструменты
+  <p align="center">
+    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+    <img src="https://img.shields.io/badge/Custom_GUI_Design-6B21A8?style=for-the-badge&logo=figma&logoColor=white" alt="UI Design"/>
+    <img src="https://img.shields.io/badge/Minecraft_Architecture-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </p>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider"/>
+</div>
+
+<br>
+
+## 🚀 Флагманский проект / Featured Project
+
+<div align="center">
+
+  ### 🔥 [PARANOIC DLC](https://paranoicdlc.fun)
+  > *Высокопроизводительный игровой клиент с уникальной системой анализа движений и кастомной архитектурой защиты.*
+
+  <br>
+
+  [![Website](https://img.shields.io/badge/Website-paranoicdlc.fun-7928CA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://paranoicdlc.fun)
+  [![Status](https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge)](https://paranoicdlc.fun)
+  [![Protection](https://img.shields.io/badge/Core-C%2B%2B_Native_Protect-purple?style=for-the-badge)](https://paranoicdlc.fun)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider"/>
+</div>
+
+<br>
+
+## 📊 GitHub Активность & Статистика
+
+<div align="center">
+
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com?user=protyxx&theme=radical&background=090a0f&border=6b21a8&stroke=a855f7&ring=c084fc&fire=c084fc&currStreakNum=c084fc&sideNums=e2e8f0&sideLabels=c084fc&dates=94a3b8" alt="GitHub Streak" />
+
+  <br><br>
+
+  <!-- GitHub Stats & Top Langs (Shion Reliable Mirror) -->
+  <img src="https://github-readme-stats.shion.dev/api?username=protyxx&show_icons=true&theme=radical&hide_border=false&bg_color=090a0f&border_color=6b21a8&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=protyxx&layout=compact&theme=radical&hide_border=false&bg_color=090a0f&border_color=6b21a8&title_color=c084fc&text_color=e2e8f0" alt="Top Languages" />
+
+  <br><br>
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=protyxx&style=for-the-badge&color=6b21a8&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider"/>
+</div>
+
+<br>
+
+## 📫 Контакты / Connect With Me
+
+<div align="center">
+
+  <a href="https://t.me/protyxx" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@protyxx-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  &nbsp;
+  <a href="https://steamcommunity.com/id/protyxx/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-protyxx-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
+  &nbsp;
+  <a href="https://paranoicdlc.fun" target="_blank">
+    <img src="https://img.shields.io/badge/Website-paranoicdlc.fun-7928CA?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
+
+</div>
+
+<br><br>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B21A8,30:3B0764,75:1A0B2E,100:090A0F&height=120&section=footer&text=STAY%20PARANOIC&fontSize=26&fontColor=C084FC&animation=fadeIn" width="100%" alt="Footer"/>
+</div>
