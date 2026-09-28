@@ -43,10 +43,10 @@ flagship: "https://paranoicdlc.fun"
 
 <br>
 
-- 🕹️ **Java Development:** Разработка продвинутых клиентов под Minecraft, кастомных пайплайнов рендера, инжектов и хуков.
-- 🛡️ **C++ Systems & Protect:** Нативная защита, обфускация, криптография памяти, анти-отладка, загрузчики и отказоустойчивые бэкенды.
-- 📐 **Motion & Behavior Analysis:** Исследование паттернов поведения игроков, алгоритмическое прогнозирование траекторий, интерполяция и математика движения.
-- 🎨 **UI / UX Architecture:** Разработка стильного, плавного интерфейса с кастомной физикой, анимациями и шейдерами.
+- 🕹️ **Java Development:** Engineering high-performance Minecraft clients, custom render pipelines, bytecode injection & hooks.
+- 🛡️ **C++ Systems & Protect:** Native anti-tamper, code obfuscation, memory cryptography, anti-debugging, secure loaders & resilient backends.
+- 📐 **Motion & Behavior Analysis:** Player behavior modeling, algorithmic trajectory prediction, motion interpolation & vector mathematics.
+- 🎨 **UI / UX Architecture:** Sleek, responsive cyber interfaces with custom easing physics, animations & OpenGL shaders.
 
 <br>
 
@@ -69,7 +69,7 @@ flagship: "https://paranoicdlc.fun"
     <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="ASM"/>
   </p>
 
-  ### 🛡️ Security
+  ### 🛡️ Security & Reverse Engineering
   <p align="center">
     <img src="https://img.shields.io/badge/Reverse_Engineering-110022?style=for-the-badge&logo=hackaday&logoColor=C084FC" alt="Reverse Engineering"/>
     <img src="https://img.shields.io/badge/Anti--Tamper_&_Protect-2D004F?style=for-the-badge&logo=auth0&logoColor=white" alt="Protection"/>
@@ -77,7 +77,7 @@ flagship: "https://paranoicdlc.fun"
     <img src="https://img.shields.io/badge/Bytecode_Manipulation-1A0A2A?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Bytecode"/>
   </p>
 
-  ### 🎨 Graphics & UI
+  ### 🎨 Graphics, UI & Tooling
   <p align="center">
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
     <img src="https://img.shields.io/badge/Custom_GUI_Design-6B21A8?style=for-the-badge&logo=figma&logoColor=white" alt="UI Design"/>
@@ -101,7 +101,7 @@ flagship: "https://paranoicdlc.fun"
 <div align="center">
 
   ### 🔥 [PARANOIC DLC](https://paranoicdlc.fun)
-  > *Высокопроизводительный игровой клиент с уникальной системой анализа движений и кастомной архитектурой защиты.*
+  > *High-performance game client featuring advanced motion analysis algorithms and a custom native protection architecture.*
 
   <br>
 
@@ -119,7 +119,7 @@ flagship: "https://paranoicdlc.fun"
 
 <br>
 
-## 📊 GitHub Activty & Statistics
+## 📊 GitHub Activity & Statistics
 
 <div align="center">
 
